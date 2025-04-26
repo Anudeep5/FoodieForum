@@ -19,4 +19,5 @@ function timeAgo(date) {
     return "just now";
 }
 
+
 export default timeAgo;
