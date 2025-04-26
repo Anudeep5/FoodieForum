@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "../styles/PostCard.css";
+import "../Styles/PostCard.css";
 import timeAgo from "../utils/timeAgo";
 
 function PostCard({ post }) {

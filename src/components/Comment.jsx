@@ -1,4 +1,4 @@
-import "../styles/Comment.css";
+import "../Styles/Comment.css";
 import timeAgo from "../utils/timeAgo";
 
 function Comment({ comment }) {

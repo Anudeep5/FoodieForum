@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { supabase } from "../services/supabaseClient";
 import PostCard from "./PostCard";
 import ThemeSelector from "./ThemeSelector";
-import "../styles/Home.css";
+import "../Styles/Home.css";
 
 function Home() {
     const [posts, setPosts] = useState([]);

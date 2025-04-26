@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { supabase } from "../services/supabaseClient";
 import { useNavigate } from "react-router-dom";
-import "../styles/CreatePost.css";
+import "../Styles/CreatePost.css";
 
 function CreatePost() {
     const navigate = useNavigate();

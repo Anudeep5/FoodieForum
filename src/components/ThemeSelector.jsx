@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../styles/ThemeSelector.css";
+import "../Styles/ThemeSelector.css";
 
 function ThemeSelector() {
     const [theme, setTheme] = useState("default");
